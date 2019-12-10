@@ -8,4 +8,5 @@ We would be honored to support users of MIT App Inventor. MIT App Inventor devel
 
 [See here](https://myhotpot.io/pricing?s=github) for details, or contact us to obtain a MIT App Inventor promo code.
 
-Note: Hotpot is not affiliated or endorsed by MIT App Inventor. We just think the platform is cool and want to help enterprising individuals learning how to code.
+## Note
+Hotpot is not affiliated or endorsed by MIT App Inventor. We just think the platform is cool and want to help enterprising individuals learning how to code.
